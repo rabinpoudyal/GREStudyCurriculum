@@ -10,7 +10,7 @@ Like everyone, I too have a dream of getting into grad school. To pursue this, I
 
 ### Day 1
 Verbal
-- Study about verious structures and usage of punctuations from the paper provided from Collins Institute
+- Study about various structures and usage of punctuations from the paper provided from Collins Institute
 - Revise vocabulary upto chapter 50 from Chris Lee Magoosh Vocabulary Builder Book
 - Increment vocabulary list from chapter 150 to 160
 
@@ -19,16 +19,15 @@ Quantative
 
 Learning Outcomes & Leson Learned:
 - Learned varities of vocabulary
-- Used vocabulary in [link]https:link.com
+- Completed the geometry paper from collins 
 
 ### Day 2
 Verbal
-- Study about verious structures and usage of punctuations from the paper provided from Collins Institute
-- Revise vocabulary upto chapter 50 from Chris Lee Magoosh Vocabulary Builder Book
-- Increment vocabulary list from chapter 150 to 160
+- Revise vocabulary upto chapter 60 from Chris Lee Magoosh Vocabulary Builder Book
+- Increment vocabulary list from chapter 160 to 170
 
 Quantative
-- Complete geometry(Triangle, Circle, Solid Objects, Quadrilaters, Triangles and others)
+- Review Geometry concepts and study Manhattan Geometry book from the series 
 
 Learning Outcomes & Leson Learned:
 - Learned varities of vocabulary
